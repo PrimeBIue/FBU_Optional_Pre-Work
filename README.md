@@ -2,6 +2,7 @@
 Optional FBU Android Pre-Work Project.
 
 # App Example
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <table border="0">
  <tr>
     <td><img src="https://github.com/PrimeBIue/FBU_Optional_Pre-Work/blob/master/Assets/App_Gif.gif" width="244" height="542" /></td>
